@@ -29,7 +29,7 @@ Para rodar qualquer um dos projetos localmente, você precisará do Java instala
 
 1. Clone o repositório:
    ```bash
-   /*'https://github.com](https://github.com/carollyssanty-web/ProjetosJava.git)*/
+   https://github.com](https://github.com/carollyssanty-web/ProjetosJava.git)
    ```
 2. Abra a pasta `src` na sua IDE de preferência.
 3. Execute o arquivo contendo o método `public static void main`.
