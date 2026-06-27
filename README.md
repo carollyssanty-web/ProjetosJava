@@ -19,9 +19,13 @@ Aqui estão os códigos desenvolvidos até o momento:
    - **Conceitos aplicados:** Mutabilidade de variáveis (alterar o valor de uma variável existente) e uso do tipo numérico de dupla precisão (`double`).
 
 4. **Testando Variáveis** (`TestandoVariaveis.java`)
-   - **O que faz:** Cria variáveis de diferentes de tipos e imprime seus valores para entender como cada ua armazena informações
-   - **Conceitos apliados:** 'char', 'String' e 'boolean', declaração de variáveis e exibição de resultados no console
+   - **O que faz:** Cria variáveis de diferentes de tipos e imprime seus valores para entender como cada ua armazena informações.
+   - **Conceitos aplicados:** 'char', 'String' e 'boolean', declaração de variáveis e exibição de resultados no console.
 
+5. **Verificando Idade** (`VerificandoIdade.java`)
+   - **O que faz:** Verifica se é maior ou menor de idade, exibindo uma mensagem no console
+   - **Conceitos aplicados:** `int`, estrutura condicional if e else, operadors relacionais e exibição dos resultados com 'System.out.println()'
+   
 ## 🛠️ Tecnologias Utilizadas
 
 - **Java JDK 17**
