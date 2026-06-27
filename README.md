@@ -19,8 +19,8 @@ Aqui estão os códigos desenvolvidos até o momento:
    - **Conceitos aplicados:** Mutabilidade de variáveis (alterar o valor de uma variável existente) e uso do tipo numérico de dupla precisão (`double`).
 
 4. **Testando Variáveis** (`TestandoVariaveis.java`)
-   -**O que faz:** Cria variáveis de diferentes de tipos e imprime seus valores para entender como cada ua armazena informações
-   -**Conceitos apliados:** 'char', 'String' e 'boolean', declaração de variáveis e exibição de resultados no console
+   - **O que faz:** Cria variáveis de diferentes de tipos e imprime seus valores para entender como cada ua armazena informações
+   - **Conceitos apliados:** 'char', 'String' e 'boolean', declaração de variáveis e exibição de resultados no console
 
 ## 🛠️ Tecnologias Utilizadas
 
