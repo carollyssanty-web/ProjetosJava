@@ -19,7 +19,7 @@ Aqui estão os códigos desenvolvidos até o momento:
    - **Conceitos aplicados:** Mutabilidade de variáveis (alterar o valor de uma variável existente) e uso do tipo numérico de dupla precisão (`double`).
 
 4. **Testando Variáveis** (`TestandoVariaveis.java`)
-   - **O que faz:** Cria variáveis de diferentes de tipos e imprime seus valores para entender como cada ua armazena informações.
+   - **O que faz:** Cria variáveis de diferentes de tipos e imprime seus valores para entender como cada uma armazena informações.
    - **Conceitos aplicados:** 'char', 'String' e 'boolean', declaração de variáveis e exibição de resultados no console.
 
 5. **Verificando Idade** (`VerificandoIdade.java`)
