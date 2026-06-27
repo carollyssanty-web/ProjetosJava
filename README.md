@@ -24,7 +24,7 @@ Aqui estão os códigos desenvolvidos até o momento:
 
 5. **Verificando Idade** (`VerificandoIdade.java`)
    - **O que faz:** Verifica se é maior ou menor de idade, exibindo uma mensagem no console
-   - **Conceitos aplicados:** `int`, estrutura condicional if e else, operadors relacionais e exibição dos resultados com 'System.out.println()'
+   - **Conceitos aplicados:** `int`, estrutura condicional if e else, operadores relacionais e exibição no console com 'System.out.println()'
    
 ## 🛠️ Tecnologias Utilizadas
 
