@@ -23,16 +23,20 @@ Aqui estão os códigos desenvolvidos até o momento:
    - **Conceitos aplicados:** `char`, `String` e `boolen`, declaração de variáveis e exibição de resultados no console.
 
 5. **Verificando Idade** (`VerificandoIdade.java`)
-   - **O que faz:** Verifica se é maior ou menor de idade, exibindo uma mensagem no console
-   - **Conceitos aplicados:** `int`, estrutura condicional `if` e `else`, operadores relacionais e exibição no console com `System.out.println()`
+   - **O que faz:** Verifica se é maior ou menor de idade, exibindo uma mensagem no console.
+   - **Conceitos aplicados:** `int`, estrutura condicional `if` e `else`, operadores relacionais e exibição no console com `System.out.println()`.
    
 6. **Calculadora de Imposto II** (`CalculadoraImposto2.java`)
    - **O que faz:** Calcula o valor correspondente dos impostos sobre um monte < ou > que 4500.
    - **Conceitos aplicados:** estrutura condicional `if` e `else`, uso de números decimais com precisão simples `float`, operações de porcentagem e eiição de resultados no console.
 
 7. **Par ou Ímpar** (`ParOuImpar.java`)
-   - **O que faz:** Calcula e define o resultado par ou ímpar.
+   - **O que faz:** Calcula e define se o resultado é par ou ímpar.
    - **Conceitos aplicados:** estrutura condicional `if` e `else`, declaração de variáveis inteiras (`int`), operadores aritméticos (divisão) e exibição de dados no console.
+
+8. **Imposto de Renda** (`ImpostoDeRenda.java`)
+   - **O que faz:** calcula a porcentagem e o valor do imposto de renda com base no salário digitado.
+   - **Conceitos aplicados:** uso do tipo numérico de dupla precisão `double`, estrutura condicional `else if` e exibição de resultados no console com `System.out.printn()`.
 
 ## 🛠️ Tecnologias Utilizadas
 
@@ -41,7 +45,7 @@ Aqui estão os códigos desenvolvidos até o momento:
 
 ## 📦 Como Executar os Códigos
 
-Para rodar qualquer um dos projetos localmente, você precisará do Java instalado em sua máquina.
+Para rodar qualquer um dos projetos localmente, você precisará do Java instalado na sua máquina.
 
 1. Clone o repositório:
    ```bash
