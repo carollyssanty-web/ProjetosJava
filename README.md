@@ -20,12 +20,16 @@ Aqui estão os códigos desenvolvidos até o momento:
 
 4. **Testando Variáveis** (`TestandoVariaveis.java`)
    - **O que faz:** Cria variáveis de diferentes de tipos e imprime seus valores para entender como cada uma armazena informações.
-   - **Conceitos aplicados:** 'char', 'String' e 'boolean', declaração de variáveis e exibição de resultados no console.
+   - **Conceitos aplicados:** `char`, `String` e `boolen`, declaração de variáveis e exibição de resultados no console.
 
 5. **Verificando Idade** (`VerificandoIdade.java`)
    - **O que faz:** Verifica se é maior ou menor de idade, exibindo uma mensagem no console
-   - **Conceitos aplicados:** `int`, estrutura condicional if e else, operadores relacionais e exibição no console com 'System.out.println()'
+   - **Conceitos aplicados:** `int`, estrutura condicional `if` e `else`, operadores relacionais e exibição no console com `System.out.println()`
    
+6. **Calculadora de Imposto II** (`CalculadoraImposto2.java`)
+   - **O que faz:** Calcula o valor correspondente dos impostos sobre um monte < ou > que 4500.
+   - **Conceitos aplicados:** estrutura condicional `if` e `else`, uso de números decimais com precisão simples `float`, operações de porcentagem e eiição de resultados no console.
+
 ## 🛠️ Tecnologias Utilizadas
 
 - **Java JDK 17**
