@@ -30,6 +30,10 @@ Aqui estão os códigos desenvolvidos até o momento:
    - **O que faz:** Calcula o valor correspondente dos impostos sobre um monte < ou > que 4500.
    - **Conceitos aplicados:** estrutura condicional `if` e `else`, uso de números decimais com precisão simples `float`, operações de porcentagem e eiição de resultados no console.
 
+7. **Par ou Ímpar** (`ParOuImpar.java`)
+   - **O que faz:** Calcula e define o resultado par ou ímpar.
+   - **Conceitos aplicados:** estrutura condicional `if` e `else`, declaração de variáveis inteiras (`int`), operadores aritméticos (divisão) e exibição de dados no console.
+
 ## 🛠️ Tecnologias Utilizadas
 
 - **Java JDK 17**
