@@ -32,11 +32,15 @@ Aqui estão os códigos desenvolvidos até o momento:
 
 7. **Par ou Ímpar** (`ParOuImpar.java`)
    - **O que faz:** Calcula e define se o resultado é par ou ímpar.
-   - **Conceitos aplicados:** estrutura condicional `if` e `else`, declaração de variáveis inteiras (`int`), operadores aritméticos (divisão) e exibição de dados no console.
+   - **Conceitos aplicados:** estrutura condicional `if` e `else`, declaração de variáveis inteiras `int`, operadores aritméticos (divisão) e exibição de dados no console.
 
 8. **Imposto de Renda** (`ImpostoDeRenda.java`)
    - **O que faz:** calcula a porcentagem e o valor do imposto de renda com base no salário digitado.
    - **Conceitos aplicados:** uso do tipo numérico de dupla precisão `double`, estrutura condicional `else if` e exibição de resultados no console com `System.out.printn()`.
+
+9**Torneio de Natação** (`TorneioDeNatação.java`)
+   - **O que faz:** Classifica qual o tipo de torneio do participante de acordo com a idade.
+   - **Conceitos aplicados:** estrutura condicional `else if`, declaração de variáveis inteiras `int` e `String`
 
 ## 🛠️ Tecnologias Utilizadas
 
