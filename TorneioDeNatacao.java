@@ -1,8 +1,8 @@
-public class TorneioDeNatação {
+public class TorneioDeNatacao {
     public static void main(String[] args) {
         String nome = "Luffy"; //String é para nomear
 
-        int idade = 19; //número do tipo inteiro
+        int idade = 19; //variável tipo inteiro
 
         if (idade <= 10) {
             System.out.println(nome + " participará da categoria INFANTIL");

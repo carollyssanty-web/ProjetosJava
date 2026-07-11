@@ -38,9 +38,17 @@ Aqui estão os códigos desenvolvidos até o momento:
    - **O que faz:** calcula a porcentagem e o valor do imposto de renda com base no salário digitado.
    - **Conceitos aplicados:** uso do tipo numérico de dupla precisão `double`, estrutura condicional `else if` e exibição de resultados no console com `System.out.printn()`.
 
-9**Torneio de Natação** (`TorneioDeNatação.java`)
-   - **O que faz:** Classifica qual o tipo de torneio do participante de acordo com a idade.
-   - **Conceitos aplicados:** estrutura condicional `else if`, declaração de variáveis inteiras `int` e `String`
+9. **Torneio de Natação** (`TorneioDeNatacao.java`)
+   - **O que faz:** Classifica qual o tipo de torneio do participante de acordo com a idade digitada diretamente no código.
+   - **Conceitos aplicados:** tipos `int` e `String`, estrutura condicional `else if`, `if` e `else`.
+
+10. **Recebendo Dados do Teclado** (`RecebendoDadosDoTeclado.java`)
+   - **O que faz:** Recebe os dados digitados no console e os armazena em variáveis tipo `String` e `int`.
+   - **Conceitos aplicados:** entrada de dados com a classe `Scanner`, tipos `String` e `int` utilizando os métodos `next()` e `nextInt()`.
+
+11. **Torneio de Natação - versão 2** (`TorneioDeNatacao2.java`)
+   - **O que faz:** Recebe o nome e a idade do participante pelo teclado e classifica automaticamente a categoria do torneio.
+   - **Conceitos aplicados:** entrada de dados com a classe `Scanner`, estrutura condicional `else if`, `if` e `else`, tipos `int` e `String` utilizando os métodos `next()` e `nextInt()`, .
 
 ## 🛠️ Tecnologias Utilizadas
 
