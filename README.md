@@ -20,7 +20,7 @@ Aqui estão os códigos desenvolvidos até o momento:
 
 4. **Testando Variáveis** (`TestandoVariaveis.java`)
    - **O que faz:** Cria variáveis de diferentes de tipos e imprime seus valores para entender como cada uma armazena informações.
-   - **Conceitos aplicados:** `char`, `String` e `boolen`, declaração de variáveis e exibição de resultados no console.
+   - **Conceitos aplicados:** tipos `char`, `String` e `boolen`, declaração de variáveis e exibição de resultados no console.
 
 5. **Verificando Idade** (`VerificandoIdade.java`)
    - **O que faz:** Verifica se é maior ou menor de idade, exibindo uma mensagem no console.
@@ -40,7 +40,7 @@ Aqui estão os códigos desenvolvidos até o momento:
 
 9. **Torneio de Natação** (`TorneioDeNatacao.java`)
    - **O que faz:** Classifica qual o tipo de torneio do participante de acordo com a idade digitada diretamente no código.
-   - **Conceitos aplicados:** tipos `int` e `String`, estrutura condicional `else if`, `if` e `else`.
+   - **Conceitos aplicados:** tipos `int` e `String`, estrutura condicional `else if`, `if` e `else` e operador lógico `&&`.
 
 10. **Recebendo Dados do Teclado** (`RecebendoDadosDoTeclado.java`)
    - **O que faz:** Recebe os dados digitados no console e os armazena em variáveis tipo `String` e `int`.
@@ -48,7 +48,19 @@ Aqui estão os códigos desenvolvidos até o momento:
 
 11. **Torneio de Natação - versão 2** (`TorneioDeNatacao2.java`)
    - **O que faz:** Recebe o nome e a idade do participante pelo teclado e classifica automaticamente a categoria do torneio.
-   - **Conceitos aplicados:** entrada de dados com a classe `Scanner`, estrutura condicional `else if`, `if` e `else`, tipos `int` e `String` utilizando os métodos `next()` e `nextInt()`, .
+   - **Conceitos aplicados:** entrada de dados com a classe `Scanner`, tipos `String` e `int`, estrutura condicional `else if`, `if` e `else`, operador lógico `&&` utilizando os métodos `next()` e `nextInt()`.
+
+12. **Cadastro de Login** (`CadastroDeLogin.java`)
+- **O que faz:** Recebe o nome do usuário pelo teclado e impede o cadastro de nomes reservados como **admin** ou **administrador**.
+- **Conceitos aplicados:** entrada de dados com a classe `Scanner`, estrutura condicional `if` e `else`, tipo `String`, operador lógico `||` e o método `equalsIgnoreCase` para realizar comparações de texto sem considerar letras maiúsculas e minúsculas.
+
+13. **Alistamento Militar** (`AlistamentoMilitar.java`)
+   - **O que faz:** Verifica, de acordo com o sexo e a idade informados pelo teclado, se o alistamento militar é obrigatório, opcional ou não permitido.
+   - **Conceitos aplicados:** entrada de dados com a classe `Scanner`, tipos `String`, `char` e `int`, estrutura condicional `if`, `else if`, operador lógico `&&` e `||`
+
+14. **Dias da Semana** (`DiasDaSemana.java`) **EM ANDAMENTO**
+- **O que faz:** 
+- **Conceitos aplicados:**
 
 ## 🛠️ Tecnologias Utilizadas
 
