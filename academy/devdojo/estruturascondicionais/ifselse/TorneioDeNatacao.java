@@ -1,3 +1,5 @@
+package academy.devdojo.estruturascondicionais.ifselse;
+
 public class TorneioDeNatacao {
     public static void main(String[] args) {
         String nome = "Luffy"; //String é para nomear

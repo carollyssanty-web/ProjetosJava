@@ -1,3 +1,5 @@
+package academy.devdojo.variaveis;
+
 /*Para usar na matemática*/
 public class CalculadoraImposto {
     public static void main(String[] args) {

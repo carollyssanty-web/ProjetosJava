@@ -1,3 +1,5 @@
+package academy.devdojo.estruturascondicionais.ifselse;
+
 public class CondicionaisAula1 {
     public static void main(String[] args) {
         boolean condicao = false; /*vai ser colocado o valor que está dentro da condição*/

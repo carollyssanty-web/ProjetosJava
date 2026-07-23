@@ -1,3 +1,5 @@
+package academy.devdojo.estruturascondicionais.ifselse;
+
 public class CalculadoraImposto2 {
     public static void main(String[] args) {
         float salario = 4700.50F;
