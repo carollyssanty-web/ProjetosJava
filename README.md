@@ -51,16 +51,24 @@ Aqui estão os códigos desenvolvidos até o momento:
    - **Conceitos aplicados:** entrada de dados com a classe `Scanner`, tipos `String` e `int`, estrutura condicional `else if`, `if` e `else`, operador lógico `&&` utilizando os métodos `next()` e `nextInt()`.
 
 12. **Cadastro de Login** (`academy.devdojo.estruturascondicionais.ifselse.CadastroDeLogin.java`)
-- **O que faz:** Recebe o nome do usuário pelo teclado e impede o cadastro de nomes reservados como **admin** ou **administrador**.
-- **Conceitos aplicados:** entrada de dados com a classe `Scanner`, estrutura condicional `if` e `else`, tipo `String`, operador lógico `||` e o método `equalsIgnoreCase` para realizar comparações de texto sem considerar letras maiúsculas e minúsculas.
+   - **O que faz:** Recebe o nome do usuário pelo teclado e impede o cadastro de nomes reservados como **admin** ou **administrador**.
+   - **Conceitos aplicados:** entrada de dados com a classe `Scanner`, estrutura condicional `if` e `else`, tipo `String`, operador lógico `||` e o método `equalsIgnoreCase` para realizar comparações de texto sem considerar letras maiúsculas e minúsculas.
 
 13. **Alistamento Militar** (`academy.devdojo.estruturascondicionais.ifselse.AlistamentoMilitar.java`)
    - **O que faz:** Verifica, de acordo com o sexo e a idade informados pelo teclado, se o alistamento militar é obrigatório, opcional ou não permitido.
-   - **Conceitos aplicados:** entrada de dados com a classe `Scanner`, tipos `String`, `char` e `int`, estrutura condicional `if`, `else if`, operador lógico `&&` e `||`
+   - **Conceitos aplicados:** entrada de dados com a classe `Scanner`, tipos `String`, `char` e `int`, estrutura condicional `if`, `else if`, operador lógico `&&` e `||`.
 
 14. **Dias da Semana** (`academy.devdojo.estruturascondicionais.ifselse.DiasDaSemana.java`)
-- **O que faz:** Define o dia da semana de acordo com o número digitado diretamente no código, os dias da semana estão numerados de 1 a 7.
-- **Conceitos aplicados:** estrutura condicional `if`, `else` e `else if`, declaração de variáveis inteiras `int`
+   - **O que faz:** Define o dia da semana de acordo com o número digitado diretamente no código, os dias da semana estão numerados de 1 a 7.
+   - **Conceitos aplicados:** estrutura condicional `if`, `else` e `else if`, declaração de variáveis inteiras `int`.
+
+15. **Dias da Semana II** (`academy.devdojo.estruturascondicionais.ifselse.switchcase.java`)
+   - **O que faz:** Exibe o dia da semana correspondente ao número definido no código utilizando a estrutura `switch`. Caso o valor informado não corresponda a um dia válido (1 a 7), exibe a mensagem "Dia inválido".
+   - **Conceitos aplicados:** estrutura condicional `switch`, instruções `case`, `break` e `default`, declaração de variável inteira `int`.
+
+16. **Tipo de Conta** (`academy.devdojo.estruturascondicionais.ifselse.switchcase.java`)
+   - **O que faz:** Verifica o tipo de conta bancária definido no código e exibe a porcentagem de rendimento correspondente. Caso o tipo de conta não exista, exibe a mensagem "CONTA INEXISTENTE".
+   - **Conceitos aplicados:** estrutura condicional `switch`, instruções `case`, `break` e `default`, variável do tipo  `String`.
 
 ## 🛠️ Tecnologias Utilizadas
 
