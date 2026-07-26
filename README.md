@@ -62,13 +62,26 @@ Aqui estão os códigos desenvolvidos até o momento:
    - **O que faz:** Define o dia da semana de acordo com o número digitado diretamente no código, os dias da semana estão numerados de 1 a 7.
    - **Conceitos aplicados:** estrutura condicional `if`, `else` e `else if`, declaração de variáveis inteiras `int`.
 
-15. **Dias da Semana II** (`academy.devdojo.estruturascondicionais.ifselse.switchcase.java`)
+15. **Dias da Semana II** (`academy.devdojo.switchcase.java`)
    - **O que faz:** Exibe o dia da semana correspondente ao número definido no código utilizando a estrutura `switch`. Caso o valor informado não corresponda a um dia válido (1 a 7), exibe a mensagem "Dia inválido".
    - **Conceitos aplicados:** estrutura condicional `switch`, instruções `case`, `break` e `default`, declaração de variável inteira `int`.
 
-16. **Tipo de Conta** (`academy.devdojo.estruturascondicionais.ifselse.switchcase.java`)
+16. **Tipo de Conta** (`academy.devdojo.switchcase.java`)
    - **O que faz:** Verifica o tipo de conta bancária definido no código e exibe a porcentagem de rendimento correspondente. Caso o tipo de conta não exista, exibe a mensagem "CONTA INEXISTENTE".
    - **Conceitos aplicados:** estrutura condicional `switch`, instruções `case`, `break` e `default`, variável do tipo  `String`.
+
+17. **Laços de Repetição - Introdução** (`academy.devdojo.lacosderepeticao.whiles.java`)
+   - **O que faz:** Eibe uma contagem de números ímpares de 1 a 9, somando 2 a cada repetição.
+   - **Conceitos aplicados:** laço de repetição `while` e declaração de variáveis inteiras `int`.
+
+18. **Exercícios Ímpares** (`academy.devdojo.lacosderepeticao.whiles`)
+   - **O que faz:** Recebe um valor digitado pelo teclado e percorre os números de 0 até o valor digitado, aumentando o contador de 1 em 1, exibindo apenas os números ímpares.
+   - **Conceitos aplicados:** entrada de dados com a classe `Scanner`, declaração de variáveis inteiras `int`, estrutura condicional `if`, laço de repetição `while`, operador de resto `%`, comparção com `!=` e incremento de variável `i`.
+
+19. **Menu** (`academy.devdojo.lacosderepeticao.whiles`)
+   - **O que faz:** Exibe um menu de opções que vai continuar sendo mostrado enquanto a opção for diferente de 3. Ao digitar 3 o programa é encerrado.
+   - **Conceitos aplicados:** declaração de variáveis inteiras `int`, entrada de dados com a classe `Scanner`, laço de repetição `while` e instruções de saída com `System.out.printn()`.
+
 
 ## 🛠️ Tecnologias Utilizadas
 

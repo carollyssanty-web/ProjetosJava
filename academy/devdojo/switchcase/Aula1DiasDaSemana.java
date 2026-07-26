@@ -1,4 +1,4 @@
-package academy.devdojo.estruturascondicionais.ifselse.switchcase;
+package academy.devdojo.switchcase;
 
 public class Aula1DiasDaSemana {
     public static void main(String[] args) {

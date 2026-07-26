@@ -1,6 +1,4 @@
-package academy.devdojo.estruturascondicionais.ifselse.switchcase;
-
-import java.sql.SQLOutput;
+package academy.devdojo.switchcase;
 
 public class Aula2TipoDeConta {
     public static void main(String[] args) {
