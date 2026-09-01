@@ -12,7 +12,7 @@ Aqui estão os códigos desenvolvidos até o momento:
 
 2. **Calculadora de Imposto** (`academy.devdojo.variaveis.CalculadoraImposto.java`)
    - **O que faz:** Define um salário fixo e uma porcentagem para calcular o valor correspondente do imposto sobre aquele montante.
-   - **Conceitos aplicados:** Uso de números decimais com precisão simples (`float`) e operações de porcentagem.
+   - **Conceitos aplicados:** Uso de números decimais com precisão simples `float` e operações de porcentagem.
 
 3. **Reutilizando Variáveis** (`academy.devdojo.variaveis.ReutilizandoVariaveis.java`)
    - **O que faz:** Calcula diferentes faixas de porcentagem (30%, 15% e 5%) sobre um mesmo salário base.
@@ -82,7 +82,9 @@ Aqui estão os códigos desenvolvidos até o momento:
    - **O que faz:** Exibe um menu de opções que vai continuar sendo mostrado enquanto a opção for diferente de 3. Ao digitar 3 o programa é encerrado.
    - **Conceitos aplicados:** declaração de variáveis inteiras `int`, entrada de dados com a classe `Scanner`, laço de repetição `while` e instruções de saída com `System.out.printn()`.
 
-
+20. **Desconto Promocional** (`DescontoPromocional.java`)
+- **O que faz:** Desconta 10% do valor original em compras a partir de R$200,00. Se o valor for 0, o caixa fecha.
+- **Conceitos aplicados:** declaração de variáveis inteiras `int`, uso de números decimais com precisão simples `float`, entrada de dados com a classe `Scanner`, laço de repetição `while`, comparção com `!=`, estrutura condicional `if` e `else`.
 ## 🛠️ Tecnologias Utilizadas
 
 - **Java JDK 17**
