@@ -82,11 +82,11 @@ Aqui estão os códigos desenvolvidos até o momento:
    - **O que faz:** Exibe um menu de opções que vai continuar sendo mostrado enquanto a opção for diferente de 3. Ao digitar 3 o programa é encerrado.
    - **Conceitos aplicados:** declaração de variáveis inteiras `int`, entrada de dados com a classe `Scanner`, laço de repetição `while` e instruções de saída com `System.out.printn()`.
 
-0.1**Primeiro projeto fora dos estudos** (`DescontoPromocional.java`)
+0.1 - **Primeiro projeto fora dos estudos** (`DescontoPromocional.java`)
 - **O que faz:** Desconta 10% do valor original em compras a partir de R$200,00. Se o valor for 0, o caixa fecha.
 - **Conceitos aplicados:** declaração de variáveis inteiras `int`, uso de números decimais com precisão simples `float`, entrada de dados com a classe `Scanner`, laço de repetição `while`, comparção com `!=`, estrutura condicional `if` e `else`.
 
-0.2.**Segundo projeto fora dos estudos** (`ContagemRegressivaDoFoguete.java`)
+0.2 - **Segundo projeto fora dos estudos** (`ContagemRegressivaDoFoguete.java`)
 - **O que faz:** Inicia uma contagem regressiva para o lançamento do foguete, chegando a '5' imprime 'metade do caminho'.
 - **Conceitos aplicados:** declaração de variáveis inteiras `int`, laço de repetição `while`, estrutura condicional `if`, `else` e `else if`.
 
