@@ -1,6 +1,6 @@
 package academy.devdojo.switchcase;
 
-public class Aula1DiasDaSemana {
+public class Aula1DiasDaSemana { //REVISAR ESTA AULA
     public static void main(String[] args) {
         int dia = 6;
         switch (dia) {
