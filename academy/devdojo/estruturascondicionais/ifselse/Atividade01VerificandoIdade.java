@@ -1,6 +1,6 @@
 package academy.devdojo.estruturascondicionais.ifselse;
 
-public class VerificandoIdade {
+public class Atividade01VerificandoIdade {
     public static void main(String[] args) {
         int idade = 25;
         // ==, !=, >, >=, <, <=

@@ -1,7 +1,7 @@
 package academy.devdojo.variaveis;
 
 /*Para usar na matemática*/
-public class CalculadoraImposto {
+public class Atividade02CalculadoraImposto {
     public static void main(String[] args) {
         float salario = 2500.00F;
         float porcentagem = 30;

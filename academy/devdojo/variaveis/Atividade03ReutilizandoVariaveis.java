@@ -1,6 +1,6 @@
 package academy.devdojo.variaveis;
 
-public class ReutilizandoVariaveis {
+public class Atividade03ReutilizandoVariaveis {
     public static void main(String[] args) {
         double salario = 5000;
         double resultado = salario * 0.3;

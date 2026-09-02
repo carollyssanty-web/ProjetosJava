@@ -2,7 +2,7 @@ package academy.devdojo.estruturascondicionais.ifselse;
 
 import java.util.Scanner;
 
-public class TorneioDeNatacao2 {
+public class Atividade06TorneioDeNatacao2 {
     public static void main(String[] args) {
         String categoria = "";
 

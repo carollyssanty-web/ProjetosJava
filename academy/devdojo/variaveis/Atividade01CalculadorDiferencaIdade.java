@@ -1,6 +1,6 @@
 package academy.devdojo.variaveis;
 
-public class CalculadorDiferencaIdade {
+public class Atividade01CalculadorDiferencaIdade {
     public static void main(String[] args){
         int firstAge = 30;
         int secondAge = 18;

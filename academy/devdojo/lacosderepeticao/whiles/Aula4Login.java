@@ -2,7 +2,7 @@ package academy.devdojo.lacosderepeticao.whiles;
 
 import java.util.Scanner;
 
-public class Aula4Login { //REVISAR ESTA AULA
+public class Aula4Login { //REVER ESTA AULA
     public static void main(String[] args) {
         final String login = "Toffin";
         final String password = "Aluno310";
@@ -13,7 +13,7 @@ public class Aula4Login { //REVISAR ESTA AULA
             String loginDigitado = scanner.nextLine();
             System.out.println("Digite sua senha");
             String passwordDigitado = scanner.nextLine();
-            if (loginDigitado.equals(loginDigitado) && password.equals(passwordDigitado)) {
+            if (login.equals(loginDigitado) && password.equals(passwordDigitado)) {
                 System.out.println("Acesso concedido");
                 exibirTelaLogin = false;
                 break;

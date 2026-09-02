@@ -2,7 +2,7 @@ package academy.devdojo.estruturascondicionais.ifselse;
 
 import java.util.Scanner;
 
-public class AlistamentoMilitar {
+public class Atividade08AlistamentoMilitar {
     public static void main(String[] args) {
 
         char sexo = 'F';

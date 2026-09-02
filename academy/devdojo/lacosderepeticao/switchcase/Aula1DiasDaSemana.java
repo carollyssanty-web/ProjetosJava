@@ -1,4 +1,4 @@
-package academy.devdojo.switchcase;
+package academy.devdojo.lacosderepeticao.switchcase;
 
 public class Aula1DiasDaSemana { //REVISAR ESTA AULA
     public static void main(String[] args) {

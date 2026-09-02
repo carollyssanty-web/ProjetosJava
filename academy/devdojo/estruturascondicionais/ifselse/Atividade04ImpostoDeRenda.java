@@ -1,6 +1,6 @@
 package academy.devdojo.estruturascondicionais.ifselse;
 
-public class ImpostoDeRenda {
+public class Atividade04ImpostoDeRenda {
     public static void main(String[] args) {
 
         double salario = 2000.00D;

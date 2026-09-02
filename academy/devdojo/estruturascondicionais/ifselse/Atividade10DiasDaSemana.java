@@ -1,6 +1,6 @@
 package academy.devdojo.estruturascondicionais.ifselse;
 
-public class DiasDaSemana {
+public class Atividade10DiasDaSemana {
     public static void main(String[] args) {
         int dia = 5;
         if(dia == 1) {

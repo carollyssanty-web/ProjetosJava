@@ -1,6 +1,6 @@
 package academy.devdojo.variaveis;
 
-public class TestandoVariaveis {
+public class Atividade04TestandoVariaveis {
     public static void main(String[] args){ /*psvm*/
         char masculino = 'A';
         char feminino = 'A';
@@ -11,7 +11,7 @@ public class TestandoVariaveis {
         /*na String pode usar frases inteiras, a sintaxe é sempre com ""*/
 
         boolean condicao = false;
-        /*é obrigatório escrever 'true' ou 'false'. Toda que que imprime, passa ser uma String*/
+        /*é obrigatório escrever 'true' ou 'false'. Todas ás vezes que imprime, passa ser uma String*/
 
         System.out.println(condicao); /*sout*/
     }

@@ -2,7 +2,7 @@ package academy.devdojo.variaveis;
 
 import java.util.Scanner;
 
-public class RecebendoDadosDoTeclado {
+public class Atividade05RecebendoDadosDoTeclado {
     public static void main(String[] args) {
 
         Scanner teclado = new Scanner(System.in);
