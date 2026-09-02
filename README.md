@@ -2,7 +2,7 @@
 
 Repositório criado para armazenar e organizar os meus exercícios e desafios práticos desenvolvidos durante meus primeiros passos na linguagem Java.
 
-## 🚀 Projetos no Repositório
+## 📓 Projetos no Repositório
 
 Aqui estão os códigos desenvolvidos até o momento:
 
@@ -34,6 +34,7 @@ Aqui estão os códigos desenvolvidos até o momento:
 - **Aula02:** recebe um valor digitado pelo teclado e percorre os números de 0 até o valor digitado, aumentando o contador de 1 em 1, exibindo apenas os números ímpares. **Conceitos:** `Scanner`, `int`, `if`, `while`, `%`, `!=`,`i`.
 - **Aula03:** exibe um menu de opções que vai continuar sendo mostrado enquanto a opção for diferente de 3. Ao digitar 3 o programa é encerrado. **Conceitos:** `int`, `Scanner`, `while`
 - **Aula04:** o sistema pede ao usuário o nome de usuário e senha. Se estiveram corretos o acesso é liberado, caso contrário, é negado. **Conceitos:** `Scanner`, `final`, `boolean`, `String`, `while`, `if`, `.equals`, `&&`.
+- **Aula05 `Do-While`:** Um jogo onde os PLAYERS digitam números iguais para imprima `true`, números diferentes imprime `false`
 
 5. **Atividades For** (`academy.devdojo.lacosderepeticao.fors`)
 - **Aula 01:** Introdução ao laço de repetição `for`, um contador simples de 1 até 10.
@@ -42,13 +43,14 @@ Aqui estão os códigos desenvolvidos até o momento:
 - **Aula 03:** Gera a tabuada de 1 até 10 já com os resultados, com **`for` aninhado**.
   **Conceitos Aplicados:** laço de repetição `for`.
 
+
 ## ♟ Projetos 'Oficiais'
 
 0.1 - **Desconto Promocional** (`DescontoPromocional.java`)
-Desconta 10% do valor original em compras a partir de R$200,00. Se o valor for 0, o caixa fecha. **Conceitos:** `int`, `float`, `Scanner`, `while`, `!=`, `if`, `else`, **`if` aninhado**. 
+- Desconta 10% do valor original em compras a partir de R$200,00. Se o valor for 0, o caixa fecha. **Conceitos:** `int`, `float`, `Scanner`, `while`, `!=`, `if`, `else`, **`if` aninhado**. 
 
 0.2 - **Contagem Regressiva do Foguete** (`ContagemRegressivaDoFoguete.java`)
-Inicia uma contagem regressiva para o lançamento do foguete, chegando a '5' imprime 'metade do caminho'. **Conceitos:** `int`, `i`, `while`, `if`, `else` e `else if`.
+- Inicia uma contagem regressiva para o lançamento do foguete, chegando a '5' imprime 'metade do caminho'. **Conceitos:** `int`, `i`, `while`, `if`, `else` e `else if`.
 
 
 ## 🛠️ Tecnologias Utilizadas
