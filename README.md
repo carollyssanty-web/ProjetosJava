@@ -1,6 +1,6 @@
-# ☕ Meus Aprendizados em Java
+# ☕ Aprendizados em Java
 
-Repositório criado para armazenar e organizar os meus exercícios e desafios práticos desenvolvidos durante meus primeiros passos na linguagem Java.
+Repositório criado para armazenar e organizar os meus exercícios e desafios práticos desenvolvidos durante os primeiros passos na linguagem Java.
 
 ## 📓 Projetos no Repositório
 
@@ -43,6 +43,9 @@ Aqui estão os códigos desenvolvidos até o momento:
 - **Aula 03:** Gera a tabuada de 1 até 10 já com os resultados, com **`for` aninhado**.
   **Conceitos Aplicados:** laço de repetição `for`.
 
+6. **Atividades Array:** (`academy.devdojo.estruturascondicionais.arrays`)
+- **Aula 01:** Agrupa uma lista de notas em um único espaço
+- **Aula 02:** 
 
 ## ♟ Projetos 'Oficiais'
 
