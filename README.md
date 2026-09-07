@@ -6,14 +6,14 @@ Repositório criado para armazenar e organizar os meus exercícios e desafios pr
 
 Aqui estão os códigos desenvolvidos até o momento:
 
-1. **Atividades de varíaveis** (`academy.devdojo.variaveis.java`)
+## 1. **Atividades de varíaveis** (`academy.devdojo.variaveis.java`)
 - **Atividade 01:** Calcula e exibe a diferença exata entre duas idades definidas diretamente no código. **Conceitos:** `int`, `-`.
 - **Atividade 02:** Define um salário fixo e uma porcentagem para calcular o valor correspondente do imposto sobre aquele montante. **Conceitos:** `float`.
 - **Atividade 03:** Calcula diferentes faixas de porcentagem (30%, 15% e 5%) sobre um mesmo salário base. **Conceitos:** `double`, mutabilidade de variáveis (a variável `resultado` é mutável).
 - **Atividade 05:** Recebe os dados digitados no console e os armazena em variáveis tipo `String` e `int`. **Conceitos:** `Scanner`, `String`, `int`, `next()`, `nextInt()`.
 
 
-2. **Atividades if/else** (`academy.devdojo.estruturascondicionais.ifselse`)
+## 2. **Atividades if/else** (`academy.devdojo.estruturascondicionais.ifselse`)
 - **Aula 01:** Introdução a condicionais `if`e `else`.
 - **Atividade 01:** Verifica se é maior ou menor de idade, exibindo uma mensagem no console. **Conceitos:** `int`,`if` e `else`, `>=`.
 - **Atividade 02:** Calcula o valor correspondente dos impostos sobre um monte < ou > que 4500. **Conceitos:** `if` e `else`, `float`.
@@ -25,27 +25,29 @@ Aqui estão os códigos desenvolvidos até o momento:
 - **Atividade 08:** Verifica, de acordo com o sexo e a idade informados pelo teclado, se o alistamento militar é obrigatório, opcional ou não permitido. **Conceitos:** `Scanner`, `String`, `char` e `int`, `if`, `else if`, `&&` e `||`.
 - **Atividade 09:** Define o dia da semana de acordo com o número digitado diretamente no código, os dias da semana estão numerados de 1 a 7. **Conceitos:** `if`, `else` e `else if`, `int`.
 
-3. **Atividades Switch Case** (`academy.devdojo.lacosderepeticao.switchcase.java`)
+## 3. **Atividades Switch Case** (`academy.devdojo.lacosderepeticao.switchcase.java`)
 - **Aula01:** exibe o dia da semana correspondente ao número definido no código. Caso o valor informado não corresponda a um dia válido, exibe a mensagem "Dia inválido". **Conceitos:** `switch`, `case`, `break`, `default`, `int`.
 - **Aula02:** verifica o tipo de conta bancária definido no código e exibe a porcentagem de rendimento correspondente. Caso o tipo de conta não exista, exibe a mensagem "CONTA INEXISTENTE". **Conceitos:** `switch`, `case`, `break`, `default`, `String`.
 
-4. **Atividades Whiles** (`academy.devdojo.lacosderepeticao.whiles.java`)
+## 4. **Atividades Whiles** (`academy.devdojo.lacosderepeticao.whiles.java`)
 - **Aula01:** exibe uma contagem de números ímpares de 1 a 9, somando 2 a cada repetição. **Conceitos:** `while`, `ìnt`
 - **Aula02:** recebe um valor digitado pelo teclado e percorre os números de 0 até o valor digitado, aumentando o contador de 1 em 1, exibindo apenas os números ímpares. **Conceitos:** `Scanner`, `int`, `if`, `while`, `%`, `!=`,`i`.
 - **Aula03:** exibe um menu de opções que vai continuar sendo mostrado enquanto a opção for diferente de 3. Ao digitar 3 o programa é encerrado. **Conceitos:** `int`, `Scanner`, `while`
 - **Aula04:** o sistema pede ao usuário o nome de usuário e senha. Se estiveram corretos o acesso é liberado, caso contrário, é negado. **Conceitos:** `Scanner`, `final`, `boolean`, `String`, `while`, `if`, `.equals`, `&&`.
 - **Aula05 `Do-While`:** Um jogo onde os PLAYERS digitam números iguais para imprima `true`, números diferentes imprime `false`
 
-5. **Atividades For** (`academy.devdojo.lacosderepeticao.fors`)
+## 5. **Atividades For** (`academy.devdojo.lacosderepeticao.fors`)
 - **Aula 01:** Introdução ao laço de repetição `for`, um contador simples de 1 até 10.
 - **Aula 02, exercício 01:** Imprime os quadrados dos números inteiros na faixa entre 0 a 40000.
            **exercício 02:** Exibe no console uma sequência de números de 5 até 50, contando de 5 em 5.
 - **Aula 03:** Gera a tabuada de 1 até 10 já com os resultados, com **`for` aninhado**.
   **Conceitos Aplicados:** laço de repetição `for`.
 
-6. **Atividades Array:** (`academy.devdojo.estruturascondicionais.arrays`)
-- **Aula 01:** Agrupa uma lista de notas em um único espaço
-- **Aula 02:** 
+## 6. **Atividades Array:** (`academy.devdojo.estruturascondicionais.arrays`)
+- **Aula 01:** **Para revisar**
+- **Aula 02:** **Para revisar**
+- **Aula 03:** **Para revisar**
+  **Conceitos Aplicados: vetor `array`.
 
 ## ♟ Projetos 'Oficiais'
 
