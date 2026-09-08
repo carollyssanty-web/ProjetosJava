@@ -47,7 +47,7 @@ Aqui estão os códigos desenvolvidos até o momento:
 - **Aula 01:** **Para revisar**
 - **Aula 02:** **Para revisar**
 - **Aula 03:** **Para revisar**
-  **Conceitos Aplicados: vetor `array`.
+  **Conceitos Aplicados:** vetor `array`.
 
 ## ♟ Projetos 'Oficiais'
 
